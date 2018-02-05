@@ -1,14 +1,32 @@
 Body {
-    background-color: white;
+    background-color: mediumvioletred;
 }
 
 
 h1 {
     font-family: sans-serif;
-    color: papayawhip;    
+    color: darkred;    
 }
 
 p {
     font-family: fantasy;
-    color: yellow;
+    color: hotpink;
 }
+
+#header {
+    padding: 20px;
+    border: 1px red solid;
+    margin: 30px;
+    background-color: 
+        palevioletred;
+}
+
+#bodycopy {
+    padding: 5px;
+    border: 2px red solid;
+    margin: 10px;
+    background-color: purple;
+}
+
+
+
